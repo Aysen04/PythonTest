@@ -24,3 +24,5 @@ def test_button_exist_2(browser):
 
 def test_me():
     assert 1 == 1
+
+print("ggggg")
