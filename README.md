@@ -1,14 +1,3 @@
-# Rabotenko Ruslan
-## Hello world, NEFU!
-
-
-
-### Getting start
-1. Clone this repository: https://github.com/imi-courses/test-plan-ruslanrb.git
-2. - Open in Pycharm (URL)
-   - Open in PowerDesigner
-   - Open test cases in Excel 
-
 
 
 #### Ознакомиться с актуальной версией исходника мастер-плана можно по:
